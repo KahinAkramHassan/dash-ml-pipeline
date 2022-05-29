@@ -1,0 +1,10 @@
+table {
+    table-layout: fixed;
+}
+
+.first-child {
+    width: 18%;
+}
+.last-child {
+    width: 20%;
+}
